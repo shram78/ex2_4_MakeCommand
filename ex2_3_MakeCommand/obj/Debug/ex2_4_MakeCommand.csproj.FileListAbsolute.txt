@@ -1,0 +1,7 @@
+D:\iJunior\ex2\ex2_3_MakeCommand\ex2_3_MakeCommand\bin\Debug\ex2_3_MakeCommand.exe.config
+D:\iJunior\ex2\ex2_3_MakeCommand\ex2_3_MakeCommand\bin\Debug\ex2_3_MakeCommand.exe
+D:\iJunior\ex2\ex2_3_MakeCommand\ex2_3_MakeCommand\bin\Debug\ex2_3_MakeCommand.pdb
+D:\iJunior\ex2\ex2_3_MakeCommand\ex2_3_MakeCommand\obj\Debug\ex2_4_MakeCommand.csprojAssemblyReference.cache
+D:\iJunior\ex2\ex2_3_MakeCommand\ex2_3_MakeCommand\obj\Debug\ex2_4_MakeCommand.csproj.CoreCompileInputs.cache
+D:\iJunior\ex2\ex2_3_MakeCommand\ex2_3_MakeCommand\obj\Debug\ex2_3_MakeCommand.exe
+D:\iJunior\ex2\ex2_3_MakeCommand\ex2_3_MakeCommand\obj\Debug\ex2_3_MakeCommand.pdb
